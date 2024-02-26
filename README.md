@@ -1,11 +1,11 @@
-<div>
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br>
-<h3>Hi there! :wave:</h3>
+<h3 align="center">Hi there! :wave:</h3>
  <hr></hr>
 <br>
-<div id="stats">
+<div id="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paxtonrosenberg&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
 <br>
