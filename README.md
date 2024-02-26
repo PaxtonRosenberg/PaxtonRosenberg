@@ -1,13 +1,13 @@
 
 <h3>Hi there! :wave:</h3>
----
+ ***
 
 <div id="stats">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paxtonrosenberg&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
 
 <h3>:speech_balloon: About Me</h3>
----
+ *** 
 <p>I'm Paxton, a supply chain professional turned software developer.</p> 
 
 <ul>
@@ -17,7 +17,7 @@
 </ul>
 
 <h3>:toolbox: Languages and Tools</h3>
----
+ *** 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
 </div>
 
 <h3>:mailbox:Let's Connect!</h3>
----
+ *** 
 <div id="badges">
   <a href="https://www.linkedin.com/in/paxton-rosenberg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
