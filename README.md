@@ -1,6 +1,6 @@
 
 <h3>Hi there! :wave:</h3>
- ***
+ <hr>***</hr>
 
 <div id="stats">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paxtonrosenberg&theme=github-dark" alt="GitHub Streak" /></a>
