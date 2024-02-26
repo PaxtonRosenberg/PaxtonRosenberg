@@ -1,21 +1,23 @@
 
 <h3>Hi there! :wave:</h3>
  <hr></hr>
-
+<br>
 <div id="stats">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paxtonrosenberg&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
-
+<br>
 <h3>:speech_balloon: About Me</h3>
 <hr></hr>
 <p>I'm Paxton, a supply chain professional turned software developer.</p> 
-
+<br>
 <ul>
 <li>:earth_americas: I am based in Los Angeles, CA</li>
 <li>:keyboard: I am currently improving my skills in React and starting to learn Python</li>
 <li>:basketball: I love sports and used to compete in Pole Vault in high school</li>
 </ul>
-
+<br>
+<br>
+<br>
 <h3>:toolbox: Languages and Tools</h3>
 <hr></hr>
 <div>
@@ -28,7 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+<br>
+<br>
+<br>
 <h3>:mailbox:Let's Connect!</h3>
 <hr></hr>
 <div id="badges">
