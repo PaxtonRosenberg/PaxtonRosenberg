@@ -15,7 +15,7 @@
 <br>
 <ul>
 <li>:earth_americas: I am based in Los Angeles, CA</li>
-<li>:keyboard: I am currently improving my skills in React and starting to learn Python</li>
+<li>:keyboard: I am currently dividing my time between a new React Full Stack Application for calculating sports card values and using python to build some OS level tools to tackle new challenges</li>
 <li>:basketball: I love sports and used to compete in Pole Vault in high school</li>
 </ul>
 <br>
