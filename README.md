@@ -1,22 +1,22 @@
 
-Hi there! :wave:
+<p align="center">Hi there! :wave:</p>
 
 <div id="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paxtonrosenberg&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
 
-<h3>:speech_balloon: About Me</h3>
+<h3 align="center">:speech_balloon: About Me</h3>
 
-I'm Paxton, a supply chain professional turned software developer. 
+<p align="center">I'm Paxton, a supply chain professional turned software developer.</p> 
 
-<p>:earth_americas: I am based in Los Angeles, CA</p>
+<p align="center">:earth_americas: I am based in Los Angeles, CA</p>
 
-<p>:keyboard: I am currently improving my skills in React and starting to learn Python</p>
+<p align="center">:keyboard: I am currently improving my skills in React and starting to learn Python</p>
 
-<p>:basketball: I love sports and used to compete in Pole Vault in high school</p>
+<p align="center">:basketball: I love sports and used to compete in Pole Vault in high school</p>
 
-<h3>Languages and Tools</h3>
-<div>
+<h3 align="center">Languages and Tools</h3>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,8 +27,8 @@ I'm Paxton, a supply chain professional turned software developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3>:mailbox:Let's Connect!</h3>
-<div id="badges">
+<h3 align="center">:mailbox:Let's Connect!</h3>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/paxton-rosenberg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
