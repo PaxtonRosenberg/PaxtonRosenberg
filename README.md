@@ -16,8 +16,6 @@
 <li>:basketball: I love sports and used to compete in Pole Vault in high school</li>
 </ul>
 <br>
-<br>
-<br>
 <h3>:toolbox: Languages and Tools</h3>
 <hr></hr>
 <div>
@@ -30,8 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br>
-<br>
 <br>
 <h3>:mailbox:Let's Connect!</h3>
 <hr></hr>
